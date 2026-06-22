@@ -49,8 +49,6 @@ The repository currently contains Security Profiles for the following targets:
 
 * [Report an Issue on GitHub](../../issues)
 * [Open a Discussion on GitHub](../../discussions)
-* Email [sectools.support@qti.qualcomm.com](mailto:sectools.support@qti.qualcomm.com) for profile-related questions
-* Email [secboot.sw@qti.qualcomm.com](mailto:secboot.sw@qti.qualcomm.com) for Secure Boot team review requests
 
 ## License
 
