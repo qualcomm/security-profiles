@@ -4,6 +4,8 @@ Central repository for Qualcomm Security Profile XML files used by the Sectools 
 
 Each Security Profile defines per-chipset authentication, image signing, debug policy, and platform binding configuration consumed by Sectools during image builds.
 
+<br>
+
 ## Downloading Sectools V2
 
 Sectools V2 can be downloaded from the [Qualcomm Software Center](https://softwarecenter.qualcomm.com/catalog/item/Qualcomm_Security_Tools).
@@ -18,6 +20,8 @@ For example:
 
 The `--help` output for each feature describes the expected Security Profile arguments, supported options, and usage examples relevant to that feature.
 
+<br>
+
 ## Supported Targets
 
 The repository currently contains Security Profiles for the following targets:
@@ -26,15 +30,20 @@ The repository currently contains Security Profiles for the following targets:
   <tr><td>Kodiak</td><td>LeMans</td><td>Talos</td></tr>
 </table>
 
+<br>
+
 ## Getting in Contact
 
 * [Report an Issue on GitHub](../../issues)
 * [Open a Discussion on GitHub](../../discussions)
 
+<br>
+
 ## License
 
 Security Profiles is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
 
+<br>
 
 **After repository creation:**
 - [ ] Update this `README.md`. Update the Project Name, description, and all sections. Remove this checklist.
