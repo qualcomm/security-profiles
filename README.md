@@ -23,24 +23,7 @@ The `--help` output for each feature describes the expected Security Profile arg
 The repository currently contains Security Profiles for the following targets:
 
 <table>
-  <tr><td>Agatti</td><td>Kaanapali</td><td>Netrani</td></tr>
-  <tr><td>Aldabra</td><td>Kailua</td><td>Nord</td></tr>
-  <tr><td>Amboseli</td><td>Kalambo</td><td>Pakala</td></tr>
-  <tr><td>Aspen</td><td>Kalpeni</td><td>Palawan</td></tr>
-  <tr><td>Aurora</td><td>Kamorta</td><td>Palima</td></tr>
-  <tr><td>Balsam</td><td>Kobuk</td><td>Pinnacles</td></tr>
-  <tr><td>Bonito</td><td>Kodiak</td><td>Poros</td></tr>
-  <tr><td>Bonsai</td><td>Kuno</td><td>Puna</td></tr>
-  <tr><td>Cacao</td><td>Lahaina</td><td>Purwa</td></tr>
-  <tr><td>Camano</td><td>Lanai</td><td>Rolas</td></tr>
-  <tr><td>Clarence</td><td>Lassen</td><td>Sariska</td></tr>
-  <tr><td>Divar</td><td>Lemans</td><td>Seca</td></tr>
-  <tr><td>Eliza</td><td>Mahua</td><td>Shikra</td></tr>
-  <tr><td>Fillmore</td><td>Maili</td><td>Skyros</td></tr>
-  <tr><td>Firewheel</td><td>Matrix</td><td>Talos</td></tr>
-  <tr><td>Glymur</td><td>Mavros</td><td>Tofino</td></tr>
-  <tr><td>Halliday</td><td>Milos</td><td>Trenton</td></tr>
-  <tr><td>Hamoa</td><td>Molokai</td><td>Waipio</td></tr>
+  <tr>Talos</td></tr>
   <tr><td>Hawi</td><td>Monaco</td><td>Wales</td></tr>
   <tr><td>Honu</td><td></td><td></td></tr>
 </table>
