@@ -23,9 +23,7 @@ The `--help` output for each feature describes the expected Security Profile arg
 The repository currently contains Security Profiles for the following targets:
 
 <table>
-  <tr>Talos</td></tr>
-  <tr><td>Hawi</td><td>Monaco</td><td>Wales</td></tr>
-  <tr><td>Honu</td><td></td><td></td></tr>
+  <tr><td>Kodiak</td><td>LeMans</td><td>Talos</td></tr>
 </table>
 
 ## Getting in Contact
