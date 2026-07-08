@@ -37,7 +37,7 @@ The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-de
     <tr>
       <td rowspan="3">QCS6490</td>
       <td>Qualcomm Dragonwing™ RB3 Gen 2 Vision Kit</td>
-      <td rowspan="5">Kodiak</td>
+      <td rowspan="5">kodiak_security_profile.xml</td>
     </tr>
     <tr>
       <td>Qualcomm Dragonwing™ RB3 Gen 2 Core Kit</td>
@@ -55,17 +55,17 @@ The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-de
     <tr>
       <td>IQ9</td>
       <td>Qualcomm Dragonwing™ IQ-9075 Evaluation Kit</td>
-      <td>LeMans</td>
+      <td>lemans_security_profile.xml</td>
     </tr>
     <tr>
       <td>IQ8</td>
       <td>Qualcomm Dragonwing™ IQ-8275 Evaluation Kit</td>
-      <td>Monaco</td>
+      <td>monaco_security_profile.xml</td>
     </tr>
     <tr>
       <td>IQ6</td>
       <td>Qualcomm Dragonwing™ IQ-615 Evaluation Kit</td>
-      <td>Talos</td>
+      <td>talos_security_profile.xml</td>
     </tr>
   </tbody>
 </table>
