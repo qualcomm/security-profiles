@@ -23,11 +23,51 @@ The `--help` output for each feature describes the expected Security Profile arg
 <br>
 
 ## Supported Targets
-
-The repository currently contains Security Profiles for the following targets:
+The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-decoration: none !important; font-weight: bold;">Qualcomm Dragonwing™</a> targets are currently supported by the Security Profiles in this repository
 
 <table>
-  <tr><td>Kodiak</td><td>LeMans</td><td>Talos</td></tr>
+  <thead>
+    <tr>
+      <th>SoC</th>
+      <th>Description</th>
+      <th>Security Profile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">QCS6490</td>
+      <td>Qualcomm Dragonwing™ RB3 Gen 2 Vision Kit</td>
+      <td rowspan="5">Kodiak</td>
+    </tr>
+    <tr>
+      <td>Qualcomm Dragonwing™ RB3 Gen 2 Core Kit</td>
+    </tr>
+    <tr>
+      <td>Qualcomm Dragonwing™ RB3 Gen 2 Industrial Kit</td>
+    </tr>
+    <tr>
+      <td rowspan="2">QCS5430</td>
+      <td>Qualcomm Dragonwing™ RB3 Gen 2 Lite Vision Kit</td>
+    </tr>
+    <tr>
+      <td>Qualcomm Dragonwing™ RB3 Gen 2 Lite Core Kit</td>
+    </tr>
+    <tr>
+      <td>IQ9</td>
+      <td>Qualcomm Dragonwing™ IQ-9075 Evaluation Kit</td>
+      <td>LeMans</td>
+    </tr>
+    <tr>
+      <td>IQ8</td>
+      <td>Qualcomm Dragonwing™ IQ-8275 Evaluation Kit</td>
+      <td>Monaco</td>
+    </tr>
+    <tr>
+      <td>IQ6</td>
+      <td>Qualcomm Dragonwing™ IQ-615 Evaluation Kit</td>
+      <td>Talos</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
