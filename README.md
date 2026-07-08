@@ -1,8 +1,8 @@
 # Security Profiles
 
-Central repository for Qualcomm Security Profile XML files used by the Sectools image signing and verification infrastructure across Qualcomm® SoC platforms.
+This repository contains Security Profile XML files for Qualcomm® SoC platforms, used by Sectools for image signing and verification.
 
-Each Security Profile defines per-chipset authentication, image signing, debug policy, and platform binding configuration consumed by Sectools during image builds.
+Each Security Profile defines the authentication, image signing, debug policy, and platform binding configuration for a specific chipset, consumed by Sectools during image builds.
 
 <br>
 
@@ -10,13 +10,11 @@ Each Security Profile defines per-chipset authentication, image signing, debug p
 
 Sectools V2 can be downloaded from the [Qualcomm Software Center](https://softwarecenter.qualcomm.com/catalog/item/Qualcomm_Security_Tools).
 
-Once installed, use the following command to list available features and learn how each one interacts with Security Profiles:
+Once installed, use the following command to explore available features and their interaction with Security Profiles
 
 ```bash
 sectools <feature> --help
 ```
-
-For example:
 
 The `--help` output for each feature describes the expected Security Profile arguments, supported options, and usage examples relevant to that feature.
 
@@ -24,6 +22,8 @@ The `--help` output for each feature describes the expected Security Profile arg
 
 ## Supported Targets
 The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-decoration: none !important; font-weight: bold;">Qualcomm Dragonwing™</a> targets are currently supported by the Security Profiles in this repository
+
+<br>
 
 <table>
   <thead>
@@ -69,6 +69,12 @@ The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-de
     </tr>
   </tbody>
 </table>
+
+<br>
+
+## Signing Images
+
+For detailed flag descriptions and example commands for image signing and inspection, refer to the <a href="https://docs.qualcomm.com/doc/80-NM248-12/topic/secure-image-usage.html" style="text-decoration: none !important; font-weight: bold;">secure-image-usage</a> documentation.
 
 <br>
 
