@@ -67,6 +67,16 @@ The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-de
       <td>Qualcomm Dragonwing™ IQ-615 Evaluation Kit</td>
       <td>talos_security_profile.xml</td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>nord_security_profile.xml</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>sariska_security_profile.xml</td>
+    </tr>
   </tbody>
 </table>
 
