@@ -68,6 +68,14 @@ The following <a href="https://dragonwingdocs.qualcomm.com/index" style="text-de
       <td>talos_security_profile.xml</td>
     </tr>
     <tr>
+      <td rowspan="2">QRB2210</td>
+      <td>Qualcomm® Robotics RB1 Platform</td>
+      <td rowspan="2">agatti_security_profile.xml‎</td>
+    </tr>
+    <tr>
+      <td>Arduino® UNO Q</td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td>nord_security_profile.xml</td>
